@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ToDoItems.ServiceBus.Woker": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7242",
+      "launchBrowser": false
+    }
+  }
+}
